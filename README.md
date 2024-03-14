@@ -2,6 +2,6 @@ This is an export of the Outdoor Festival scene and associated glb and mp3 files
 The scene was at https://hubs.mozilla.com/scenes/Rpt8DJS made by the Hubs team.
 This scene was free to remix in Spoke.
 
-License?
+License: [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 
-Repo to original files?
+Original blend files: not yet open sourced from what we know
